@@ -1,7 +1,7 @@
 # RPi_DPIPE
 #### This package is designed to light up digital pipe on raspberry-pi with python language
 #### 1.CADT is for Common-Anode-Digital-Pipe
-#### 1.CCDT is for Common-Cathode-Digital-Pipe
+#### 2.CCDT is for Common-Cathode-Digital-Pipe
 
 # How to use it?
 #### import libs (we choose CADT to display)
